@@ -1,0 +1,9 @@
+{
+  "name": "CBR_data_collection",
+  "short_name": "CBR",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A3443",
+  "description": "A demo app for a fictional conference",
+  "theme_color": "#2A3443"
+}
